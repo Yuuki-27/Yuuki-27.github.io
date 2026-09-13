@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一周周报</title>
+      <link href="/2026/09/09/%E7%AC%AC%E4%B8%80%E5%91%A8%E5%91%A8%E6%8A%A5/"/>
+      <url>/2026/09/09/%E7%AC%AC%E4%B8%80%E5%91%A8%E5%91%A8%E6%8A%A5/</url>
+      
+        <content type="html"><![CDATA[<p>2026.9.8–2026.9.13</p><h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><h3 id="1-试错"><a href="#1-试错" class="headerlink" title="1.试错"></a>1.试错</h3><p>报错相当多,不是在报错就是在报错的路上,代码少敲和粘贴出现多余字符算小问题,主要问题是解决部分软件安装路径无法被找到以及解决npm权限不足的问题,甚至还有因提问不当导致大肥鱼的错误反馈</p><h3 id="2-借力"><a href="#2-借力" class="headerlink" title="2.借力"></a>2.借力</h3><p>感谢大肥鱼和各up主的支持,算是一点点爬出来了</p><p>More info: 主线:<a href="https://www.xmdblog.com/posts/70db7d7c.html">guide</a><br>           辅支线:DeepSeek错误分析,指导及解决方案</p><h3 id="3-难点"><a href="#3-难点" class="headerlink" title="3.难点"></a>3.难点</h3><p>说是难点,实际上是表达不够明晰导致无法从DeepSeek获取有用的解决方案,在npm权限和脚本报错修复处卡了很久,其实是和xx依赖有关,从错误反馈中get到了全局依赖这一生词,再次询问DeepSeek得到解决方案</p><p>一开始碰到这问题就让我改系统环境变量和添加路径,但是前面刚改完依旧无用,找了挺多视频没法对症下药,看见生词问AI什么意思,DeepSeek才给我解决方案,原来AI也会藏吗QAQ()<br>其实是很简单的问题,如下图<br><img src="/images/%E5%9B%A0%E6%9E%9C.png" alt="alt text"><br>问题解决前后效果<br><img src="/images/%E5%85%A8%E5%B1%80%E4%BE%9D%E8%B5%96.png" alt="alt text"><br><img src="/images/%E5%B1%80%E9%83%A8%E4%BE%9D%E8%B5%96.png" alt="alt text"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>欢迎</title>
+      <link href="/2026/09/09/%E6%AC%A2%E8%BF%8E/"/>
+      <url>/2026/09/09/%E6%AC%A2%E8%BF%8E/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到我的博客 , 以后将在这里分享我的CTF周报 , 记录成长</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
