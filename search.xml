@@ -8,7 +8,7 @@
       <link href="/2026/09/17/%E7%AC%AC%E4%BA%8C%E5%91%A8%E5%91%A8%E6%8A%A5/"/>
       <url>/2026/09/17/%E7%AC%AC%E4%BA%8C%E5%91%A8%E5%91%A8%E6%8A%A5/</url>
       
-        <content type="html"><![CDATA[<p>2026.9.15–2026.9.20</p><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+        <content type="html"><![CDATA[<p>2026.9.15–2026.9.20</p><h2 id="前端三件套"><a href="#前端三件套" class="headerlink" title="前端三件套"></a>前端三件套</h2><h3 id="1-HTML"><a href="#1-HTML" class="headerlink" title="1.HTML"></a>1.HTML</h3><p>网页的框架由它构成 ,文字与非文字元素(如图片,链接,音乐,程序)都可以用它表达</p><h3 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h3><p>网页的设计由它完成 ,可以美化网页 ,换个壁纸这样类似的操作都是通过它搞定的</p><h3 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h3><p>可以让网页变得具有交互性 ,让网页活起来 ,可以通过与前两件套配合做出点击反馈特效这种效果 ,主要保证反馈的触发</p><h4 id="三者的配合"><a href="#三者的配合" class="headerlink" title="三者的配合"></a>三者的配合</h4><p>拿点击反馈特效举例 ,在某网页中随意点击光标能反馈好看的粒子效果就是由这三者合力完成的 ,由J主导,C配合,H承载 ,H提供容器来容纳代码 ,C可以决定特效长成什么样 ,J是核心,监听点击这一事实,获取鼠标坐标,创建特效元素,动画结束后再删除</p>]]></content>
       
       
       
